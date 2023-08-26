@@ -1,0 +1,44 @@
+.head{
+    position: sticky;
+}
+.mypic{
+    border-radius: 50%;
+    left: 40%;
+    position: relative;
+    top: 20px;
+    align-items: center;
+}
+
+.hello{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: rgb(236, 125, 195);
+    position: absolute;
+    left: 49%;
+    padding: 30px 0 50px 0;
+}
+
+.top-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .hi {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+  }
+
+  .hii {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+  }
+
+  
+  
